@@ -21,7 +21,7 @@ function TodoListItems() {
 function TodoList() {
 	return (
 		<>
-			<Heading>Todo List</Heading>123123123
+			<Heading>Todo List</Heading>
 			<TodoListItems />
 		</>
 	)
